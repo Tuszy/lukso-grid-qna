@@ -10,6 +10,6 @@ Every "Q&A" pair is represented by a LSP8 Token. The token id is the keccak256 h
 
 # WORK IN PROGRESS - EXPECT THE RESULT BEFORE 14th Feb 2025 - SEE YOU LATER
 
-QuestionAndAnswerFactory: 0xBd68aC438fA595a81f26019D8Cd4e6BF526dac29
-https://universaleverything.io/0x32FF6D42aEC22dE731d88A155a140b89FF269E94
-https://lukso-grid-qna.tuszy.com/
+- [QuestionAndAnswerFactory](https://explorer.execution.mainnet.lukso.network/address/0x28e11D043252e8E207Eb8B39371f10Db0F7771cf?tab=contract) (Verified smart contract that makes it easy to setup Q&A grid widgets)
+- [Q&A Universal Profile](https://universaleverything.io/0x32FF6D42aEC22dE731d88A155a140b89FF269E94) (Showcase of 'Incentivized Question & Answer' grid widget)
+- [https://lukso-grid-qna.tuszy.com](https://lukso-grid-qna.tuszy.com) (Link for adding it manually to your grid)
