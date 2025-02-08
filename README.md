@@ -3,6 +3,9 @@
 # Demo Video
 [Youtube - Incentivized Q&A - Lukso - Hack the Grid - Level 1](https://www.youtube.com/watch?v=Ym1YeURd-aw)
 
+# Diagram
+<img src="diagram.png" />
+
 # Description
 This project's goal is to create a fully decentralized Q&A grid widget, that allows the hosting universal profiles to receive a compensation for answering questions of their visitors. In other words, the visitor offers a custom defined amount of LYX to the host for answering a question. The host only receives the reward if he answers the question. Otherwise the visitor will be allowed to revoke the question and receive the offered LYX back, of course as long as it has not been answered yet. The purpose of this widget is to allow creators/stars dedicate their precious time to fans without having to cut back on income. Furthermore each "Q&A" pair is represented by a LSP8 token (NFT2.0) which can be treated as a type of autograph or certificate of authenticity.
 
