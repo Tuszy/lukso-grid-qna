@@ -1,0 +1,23 @@
+[
+  {
+    "name": "LSP3Profile",
+    "key": "0x5ef83ad9559033e6e941db7d7c495acdce616347d28e90c7ce47cbfcfcad3bc5",
+    "keyType": "Singleton",
+    "valueType": "bytes",
+    "valueContent": "VerifiableURI"
+  },
+  {
+    "name": "QuestionAndAnswer:Config",
+    "key": "0x6b14278bbcdbca34fa49000048fd0b937c5f6bca9b37c93d4dfaa4c645a0d160",
+    "keyType": "Mapping",
+    "valueType": "string",
+    "valueContent": "String"
+  },
+  {
+    "name": "QuestionAndAnswer:Greeting",
+    "key": "0x6b14278bbcdbca34fa490000f4bbb0bd0c4eb3b7eb9c2f50ba9a00d102fdbe5d",
+    "keyType": "Mapping",
+    "valueType": "string",
+    "valueContent": "String"
+  }
+]
