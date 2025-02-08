@@ -1,0 +1,46 @@
+{
+  "LSP4Metadata": {
+    "name": "Question and Answer",
+    "description": "Incentivized question and answer.",
+    "links": [
+      { "title": "Homepage", "url": "https://lukso-grid-qna.tuszy.com" },
+      { "title": "Twitter", "url": "https://twitter.com/0xTuszy" },
+      { "title": "GitHub", "url": "https://github.com/Tuszy/lukso-grid-qna" }
+    ],
+    "icon": [
+      {
+        "width": 512,
+        "height": 512,
+        "verification": {
+          "method": "keccak256(bytes)",
+          "data": "0xa15c5b9425125ac04c1b6705c39ce9a86306dda4133fa8717a128b465d004aaf"
+        },
+        "url": "ipfs://bafkreic7s2wneuyx7aosqpjqewp7clrs5a35z76avbh7jwknfob2jdkzba"
+      }
+    ],
+    "backgroundImage": [
+      {
+        "width": 832,
+        "height": 448,
+        "verification": {
+          "method": "keccak256(bytes)",
+          "data": "0xa3ac38b3fac64ca132b4102748a1cd4c38420b9d6cafbe700df290804444fd8d"
+        },
+        "url": "ipfs://bafybeids5drittauwuubgwl36mnmiaude6d6dxtqhbmonc34f2qw3dqj64"
+      }
+    ],
+    "images": [
+      [
+        {
+          "width": 512,
+          "height": 512,
+          "verification": {
+            "method": "keccak256(bytes)",
+            "data": "0xa15c5b9425125ac04c1b6705c39ce9a86306dda4133fa8717a128b465d004aaf"
+          },
+          "url": "ipfs://bafkreic7s2wneuyx7aosqpjqewp7clrs5a35z76avbh7jwknfob2jdkzba"
+        }
+      ]
+    ]
+  }
+}

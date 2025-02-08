@@ -1,0 +1,47 @@
+{
+  "name": "qna-smart-contract",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Smart contract for realizing an incentivized Q&A.",
+  "main": "index.js",
+  "scripts": {
+    "run": "hardhat run",
+    "test": "REPORT_GAS=true hardhat test --show-stack-traces",
+    "node": "hardhat node",
+    "compile": "hardhat compile --show-stack-traces",
+    "deploy-localhost": "hardhat run --network localhost scripts/deploy.ts",
+    "deploy-lukso-mainnet": "hardhat run --network LuksoMainnet scripts/deploy.ts",
+    "verify-lukso-mainnet": "hardhat verify --network LuksoMainnet",
+    "deploy-lukso-testnet": "hardhat run --network LuksoTestnet scripts/deploy.ts"
+  },
+  "keywords": [
+    "lukso",
+    "qna",
+    "q&a",
+    "Question and Answer",
+    "Question & Answer",
+    "ama",
+    "Ask me anything",
+    "nft",
+    "smart contract"
+  ],
+  "author": "Dennis Tuszynski",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "3.0.0",
+    "@openzeppelin/hardhat-upgrades": "2.3.3",
+    "hardhat": "2.18.3",
+    "hardhat-contract-sizer": "2.10.0",
+    "hardhat-deploy": "0.11.43",
+    "mocha": "10.2.0"
+  },
+  "dependencies": {
+    "@erc725/erc725.js": "^0.27.2",
+    "@erc725/smart-contracts": "^8.0.0",
+    "@lukso/eip191-signer.js": "^0.2.2",
+    "@lukso/lsp-factory.js": "3.2.1",
+    "@lukso/lsp-smart-contracts": "^0.16.2",
+    "@openzeppelin/contracts": "^4.9.6",
+    "dotenv": "^16.3.1"
+  }
+}

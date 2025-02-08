@@ -1,0 +1,101 @@
+[
+  {
+    "name": "SupportedStandards:LSP4DigitalAsset",
+    "key": "0xeafec4d89fa9619884b60000a4d96624a38f7ac2d8d9a604ecf07c12c77e480c",
+    "keyType": "Mapping",
+    "valueType": "bytes4",
+    "valueContent": "0xa4d96624"
+  },
+  {
+    "name": "LSP4TokenName",
+    "key": "0xdeba1e292f8ba88238e10ab3c7f88bd4be4fac56cad5194b6ecceaf653468af1",
+    "keyType": "Singleton",
+    "valueType": "string",
+    "valueContent": "String"
+  },
+  {
+    "name": "LSP4TokenSymbol",
+    "key": "0x2f0a68ab07768e01943a599e73362a0e17a63a72e94dd2e384d2c1d4db932756",
+    "keyType": "Singleton",
+    "valueType": "string",
+    "valueContent": "String"
+  },
+  {
+    "name": "LSP4Metadata",
+    "key": "0x9afb95cacc9f95858ec44aa8c3b685511002e30ae54415823f406128b85b238e",
+    "keyType": "Singleton",
+    "valueType": "bytes",
+    "valueContent": "VerifiableURI"
+  },
+  {
+    "name": "LSP4Creators[]",
+    "key": "0x114bd03b3a46d48759680d81ebb2b414fda7d030a7105a851867accf1c2352e7",
+    "keyType": "Array",
+    "valueType": "address",
+    "valueContent": "Address"
+  },
+  {
+    "name": "LSP4CreatorsMap:<address>",
+    "key": "0x6de85eaf5d982b4e5da00000<address>",
+    "keyType": "Mapping",
+    "valueType": "(bytes4,uint128)",
+    "valueContent": "(Bytes4,Number)"
+  },
+
+  {
+    "name": "Question",
+    "key": "0x740b5adc65a801b1007fb4f83976d83f8a75bf40d03352b75d3d5b13027f983b",
+    "keyType": "Singleton",
+    "valueType": "string",
+    "valueContent": "String"
+  },
+  {
+    "name": "Reward",
+    "key": "0x02d12311fe1ba073b437096116ddd40fe41238aea6da9290a417a616bb3fbf3f",
+    "keyType": "Singleton",
+    "valueType": "uintN",
+    "valueContent": "Number"
+  },
+  {
+    "name": "Asker",
+    "key": "0x76462b2cb08ff6c9429dc9e0009c6a78b74bc0e37bb5afaf94df4a5453e38145",
+    "keyType": "Singleton",
+    "valueType": "address",
+    "valueContent": "address"
+  },
+  {
+    "name": "AskTimestamp",
+    "key": "0xa8866758287878d914bea0299d18e613e0e66558f9e12d71da988ab71d2c00ed",
+    "keyType": "Singleton",
+    "valueType": "uintN",
+    "valueContent": "Number"
+  },
+  {
+    "name": "AnswerTimestamp",
+    "key": "0x9805e08297798acd1c4924ab23a24bd2aecc550eb1056030c2fe3283173f63ea",
+    "keyType": "Singleton",
+    "valueType": "uintN",
+    "valueContent": "Number"
+  },
+  {
+    "name": "Answer",
+    "key": "0x13fc092a262c8f46b546749395986203797d295000487ccc3c0579b06d20162e",
+    "keyType": "Singleton",
+    "valueType": "string",
+    "valueContent": "String"
+  },
+  {
+    "name": "QuestionAndAnswer:Config",
+    "key": "0x6b14278bbcdbca34fa49000048fd0b937c5f6bca9b37c93d4dfaa4c645a0d160",
+    "keyType": "Mapping",
+    "valueType": "string",
+    "valueContent": "String"
+  },
+  {
+    "name": "QuestionAndAnswer:Greeting",
+    "key": "0x6b14278bbcdbca34fa490000f4bbb0bd0c4eb3b7eb9c2f50ba9a00d102fdbe5d",
+    "keyType": "Mapping",
+    "valueType": "string",
+    "valueContent": "String"
+  }
+]
